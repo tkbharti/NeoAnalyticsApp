@@ -52,7 +52,7 @@ npm run dist
 
 # Widget Creation Page
 
-<img width="1280" height="520" alt="image" src="https://github.com/user-attachments/assets/7a3dfda5-05cc-4394-8043-1026cc04804b" />
+<img width="1280" height="527" alt="image" src="https://github.com/user-attachments/assets/25486d87-c5b1-47cf-aa8f-009476dde906" />
 
 
 # Widget Creation Page
