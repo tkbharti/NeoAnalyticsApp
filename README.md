@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4894ab05-c5fb-4d59-944d-4b8ee36559d4" />
+<img width="328" height="200" alt="image" src="https://github.com/user-attachments/assets/8f6470c2-508e-450d-bb84-997bb504a657" />
 
 # 🖥️ SysPulse: Self-service Business Intelligence (BI) and data visualization
 Designed for business users, analysts, and decision-makers, it enables teams to transform raw data into interactive, meaningful visual insights without requiring advanced technical expertise.
