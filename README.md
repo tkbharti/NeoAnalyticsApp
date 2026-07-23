@@ -39,3 +39,24 @@ npm i
 npm run dist
 
 
+
+# Login Page
+
+<img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/2f754882-7e7e-4d6e-859c-4a5797a603d3" />
+
+
+# Dashboard Page 
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/23e77efd-fcf6-4ea6-9ee6-e9fb2c0a1e71" />
+
+
+# Widget Creation Page
+
+<img width="1280" height="520" alt="image" src="https://github.com/user-attachments/assets/7a3dfda5-05cc-4394-8043-1026cc04804b" />
+
+
+# Widget Creation Page
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/384861b4-39f1-4275-b9d5-801ce8c02b6c" />
+
+
