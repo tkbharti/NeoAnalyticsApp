@@ -1,0 +1,13 @@
+div.boxnav{width:100%;display:block;}
+div.boxnav a{width:125px;}
+div.boxnav a img{padding:0;}
+div.boxnav a em{font-style:normal;}
+div.boxnav a{float:right;display:block;font-size:11px;color:#888;font-family:verdana,sans-serif;margin:0 0px 20px 6px;text-align:center;text-decoration:none;overflow:hidden;-moz-box-shadow: 2px 2px 3px #4D4D4D;-webkit-box-shadow:2px 2px 3px #4D4D4D;box-shadow:2px 2px 3px #4D4D4D;}
+div.boxnav img{border:0;clear:right;}
+
+div.boxnav a.bn-content{color:white;font-weight:bold;font-size:12px;border:1px solid #ccc;background:#09aeec;text-align:center;border-radius: 10px;}
+div.boxnav a.bn-content:hover{border:1px solid #999;background-color:#ddd;color:#0a58ca;border-radius: 10px;}
+div.boxnav a{line-height:100%;}
+div.boxnav a.bn-content{width:125px;height:125px;line-height:1000%;}
+html>body div.boxnav a.bn-content{width:105px;height:105px;}
+div.boxnav img.s{height:0;width:0;}
